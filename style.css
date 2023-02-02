@@ -31,16 +31,18 @@ h1{
 }
 .login > button :active{
       
-    border : 1px solid grey;
+   
     border-radius: 10px;
+    background-color: black;
 
 }
 .login > button{
     margin-top: 10px;
     width: 90%;   
     height: 50px;
-    
 }
+
+
 .forgot
 {
     margin-top: 10px;
