@@ -1,0 +1,65 @@
+
+img{
+    padding-left: 405px;
+}
+h1{
+    margin-left: 20px;   
+}
+.big{
+    margin-left: 415px;
+    background-color: rgb(224, 222, 220);
+    width: 400px;
+    text-align: center;
+}
+.username > input{      
+    border-radius: 10px;
+    border : 1px solid grey;
+    width: 90%;   
+    height: 35px;
+    font-size: 40;
+
+    
+}
+.pass > input{      
+    margin-top: 10px;
+    border-radius: 10px;
+    border :1px solid grey;
+    width: 90%;   
+    height: 35px;   
+    font-size: 40;
+    
+}
+.login > button :active{
+      
+    border : 1px solid grey;
+    border-radius: 10px;
+
+}
+.login > button{
+    margin-top: 10px;
+    width: 90%;   
+    height: 50px;
+    
+}
+.forgot
+{
+    margin-top: 10px;
+
+}
+.loginwith{
+    margin-top: 10px;
+
+}
+.another>button{
+    margin-top: 0.2px;
+    width: 90%;   
+    height: 50px;
+}
+.Dont{
+    padding-bottom: 10px;
+    font-size: 50;
+}
+body{
+    background-color: black;
+    background-image: url('https://images.rbxcdn.com/c83761712c58384892d63501cad3a1ee');
+}
